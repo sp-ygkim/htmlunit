@@ -28,7 +28,7 @@
         <htmlunitcssparser.version>1.12.0</htmlunitcssparser.version>
         <htmlunitneko.version>2.66.0</htmlunitneko.version>
         <htmlunitcorejs.version>2.67.0-SNAPSHOT</htmlunitcorejs.version>
-        <htmlunitxpath.version>2.67.0-SNAPSHOT</htmlunitxpath.version>
+        <htmlunitxpath.version>2.67.0</htmlunitxpath.version>
 
         <htmlunitdriver.version>4.6.0</htmlunitdriver.version>
         <selenium.version>4.6.0</selenium.version>
@@ -215,7 +215,7 @@
                                 <requireJavaVersion>
                                     <version>1.8.0</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                             </rules>
                         </configuration>
                         <goals>
@@ -1026,7 +1026,7 @@
             <name>Adam Afeltowicz</name>
         </contributor>
         <contributor>
-            <name>Madis P&#x00e4;rn</name>
+            <name>Madis Pärn</name>
         </contributor>
         <contributor>
             <name>Michael Rimov</name>
